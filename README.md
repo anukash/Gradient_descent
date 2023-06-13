@@ -1,4 +1,4 @@
-# Gradient_descent
+# Practical_Intuition_Of_Gradient_Descent
 Take away:
   1. how Gradient Descent work
   2. how loss update
